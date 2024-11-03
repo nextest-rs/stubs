@@ -1,0 +1,8 @@
+[package]
+name = "nextest"
+version = "0.1.0"
+edition = "2021"
+description = "Stub crate, you likely want cargo-nextest instead"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/nextest-rs/nextest"
+documentation = "https://nexte.st"
